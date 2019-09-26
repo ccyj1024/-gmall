@@ -1,0 +1,9 @@
+accessId: LTAIoHR2UvLqokTR
+accessKey: hDuq2B5tfHnX95pmu8UD2yQlwQ4SXL
+endpoint: oss-cn-shanghai.aliyuncs.com
+bucket: ccyj-gmall
+
+mybatis-plus:
+  global-config:
+    db-config:
+      id-type: auto
